@@ -1,0 +1,57 @@
+Change Component Comment : Designator=U4 Old Comment=LTV-357 New Comment=LD1117S33CTR
+Change Component Comment : Designator=L1 Old Comment=ValueManufacturerPartNumber New Comment=inductor
+Change Component Comment : Designator=L2 Old Comment=ValueManufacturerPartNumber New Comment=inductor
+Change Component Comment : Designator=L3 Old Comment=ValueManufacturerPartNumber New Comment=inductor
+Change Component Designator: OldDesignator=U? NewDesignator=U3
+Added Pin To Net: NetName=2 Pin=L1-1
+Added Pin To Net: NetName=NetL1_2 Pin=L1-2
+Added Pin To Net: NetName=4 Pin=L2-1
+Added Pin To Net: NetName=NetL2_2 Pin=L2-2
+Added Pin To Net: NetName=6 Pin=L3-1
+Added Pin To Net: NetName=NetL3_2 Pin=L3-2
+Added Pin To Net: NetName=GND_??? Pin=U4-1
+Added Pin To Net: NetName=VCC_3.3V Pin=U4-2
+Added Pin To Net: NetName=VCC_5V Pin=U4-3
+Added Pin To Net: NetName=VCC_3.3V Pin=U4-4
+Added Pin To Net: NetName=SPI_2_CS Pin=XP1-1
+Added Pin To Net: NetName=SPI_2_CS Pin=XP1-2
+Added Pin To Net: NetName=SPI_2_MOSI Pin=XP1-3
+Added Pin To Net: NetName=SPI_2_MOSI Pin=XP1-4
+Added Pin To Net: NetName=SPI_2_MISO Pin=XP1-5
+Added Pin To Net: NetName=SPI_2_MISO Pin=XP1-6
+Added Pin To Net: NetName=SPI_2_SCK Pin=XP1-7
+Added Pin To Net: NetName=SPI_2_SCK Pin=XP1-8
+Added Pin To Net: NetName=GND_??? Pin=XP1-17
+Added Pin To Net: NetName=GND_??? Pin=XP1-18
+Added Pin To Net: NetName=GND_??? Pin=XP1-19
+Added Pin To Net: NetName=GND_??? Pin=XP1-20
+Added Pin To Net: NetName=VCC_5V Pin=XP1-21
+Added Pin To Net: NetName=VCC_5V Pin=XP1-22
+Added Pin To Net: NetName=VCC_5V Pin=XP1-23
+Added Pin To Net: NetName=VCC_5V Pin=XP1-24
+Added Pin To Net: NetName=GND_??? Pin=XP1-25
+Added Pin To Net: NetName=GND_??? Pin=XP1-26
+Added Pin To Net: NetName=GND_??? Pin=XP1-27
+Added Pin To Net: NetName=GND_??? Pin=XP1-28
+Added Pin To Net: NetName=VCC_12V Pin=XP1-29
+Added Pin To Net: NetName=VCC_12V Pin=XP1-30
+Added Pin To Net: NetName=VCC_12V Pin=XP1-31
+Added Pin To Net: NetName=VCC_12V Pin=XP1-32
+Added Pin To Net: NetName=SWDIO Pin=XP3-1
+Added Pin To Net: NetName=RESET Pin=XP3-2
+Added Pin To Net: NetName=SWCLK Pin=XP3-3
+Added Pin To Net: NetName=SWO Pin=XP3-4
+Added Pin To Net: NetName=GND_??? Pin=XP3-5
+Added Pin To Net: NetName=VCC_3.3V Pin=XP3-6
+Added Pin To Net: NetName=VCC_3.3V Pin=XP3-7
+Added Pin To Net: NetName=VCC_3.3V Pin=XP3-8
+Added Pin To Net: NetName=GND_??? Pin=XP3-9
+Added Pin To Net: NetName=VCC_3.3V Pin=XP3-10
+Added Pin To Net: NetName=GND_??? Pin=XP3-11
+Added Pin To Net: NetName=VCC_3.3V Pin=XP3-12
+Added Member To Class: ClassName=TI_SCH Member=Component L1 inductor
+Added Member To Class: ClassName=TI_SCH Member=Component L2 inductor
+Added Member To Class: ClassName=TI_SCH Member=Component L3 inductor
+Added Member To Class: ClassName=TI_SCH Member=Component U4 LD1117S33CTR
+Added Member To Class: ClassName=TI_SCH Member=Component XP1 5650859-5
+Added Member To Class: ClassName=TI_SCH Member=Component XP3 929647-04-36-I

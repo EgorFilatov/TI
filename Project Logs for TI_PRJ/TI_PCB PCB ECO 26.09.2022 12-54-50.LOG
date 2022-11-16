@@ -1,0 +1,58 @@
+Removed Pin From Net: NetName=AMP_IN+ Pin=L1-3
+Removed Pin From Net: NetName=AMP_IN+ Pin=L2-3
+Removed Pin From Net: NetName=AMP_IN+ Pin=L3-3
+Removed Member From Class: ClassName=TI_SCH Member=L1
+Removed Member From Class: ClassName=TI_SCH Member=L2
+Removed Member From Class: ClassName=TI_SCH Member=L3
+Added Component: Designator=L?(inductor)
+Added Component: Designator=L?(inductor)
+Added Component: Designator=L?(inductor)
+Added Component: Designator=XP2(DRB-37F)
+Added Pin To Net: NetName=AMP_IN+ Pin=L?-0
+Added Pin To Net: NetName=AMP_IN+ Pin=L?-0
+Added Pin To Net: NetName=AMP_IN+ Pin=L?-0
+Added Pin To Net: NetName=IDI_0 Pin=XP2-1
+Added Pin To Net: NetName=IDI_2 Pin=XP2-2
+Added Pin To Net: NetName=IDI_4 Pin=XP2-3
+Added Pin To Net: NetName=IDI_6 Pin=XP2-4
+Added Pin To Net: NetName=E.GND_0 Pin=XP2-5
+Added Pin To Net: NetName=IDI_9 Pin=XP2-6
+Added Pin To Net: NetName=IDI_11 Pin=XP2-7
+Added Pin To Net: NetName=IDI_13 Pin=XP2-8
+Added Pin To Net: NetName=IDI_15 Pin=XP2-9
+Added Pin To Net: NetName=IDI_16 Pin=XP2-10
+Added Pin To Net: NetName=IDI_18 Pin=XP2-11
+Added Pin To Net: NetName=IDI_20 Pin=XP2-12
+Added Pin To Net: NetName=IDI_22 Pin=XP2-13
+Added Pin To Net: NetName=E.GND_2 Pin=XP2-14
+Added Pin To Net: NetName=IDI_25 Pin=XP2-15
+Added Pin To Net: NetName=IDI_27 Pin=XP2-16
+Added Pin To Net: NetName=IDI_29 Pin=XP2-17
+Added Pin To Net: NetName=IDI_31 Pin=XP2-18
+Added Pin To Net: NetName=E.GND Pin=XP2-19
+Added Pin To Net: NetName=IDI_1 Pin=XP2-20
+Added Pin To Net: NetName=IDI_3 Pin=XP2-21
+Added Pin To Net: NetName=IDI_5 Pin=XP2-22
+Added Pin To Net: NetName=IDI_7 Pin=XP2-23
+Added Pin To Net: NetName=IDI_8 Pin=XP2-24
+Added Pin To Net: NetName=IDI_10 Pin=XP2-25
+Added Pin To Net: NetName=IDI_12 Pin=XP2-26
+Added Pin To Net: NetName=IDI_14 Pin=XP2-27
+Added Pin To Net: NetName=E.GND_1 Pin=XP2-28
+Added Pin To Net: NetName=IDI_17 Pin=XP2-29
+Added Pin To Net: NetName=IDI_19 Pin=XP2-30
+Added Pin To Net: NetName=IDI_21 Pin=XP2-31
+Added Pin To Net: NetName=IDI_23 Pin=XP2-32
+Added Pin To Net: NetName=IDI_24 Pin=XP2-33
+Added Pin To Net: NetName=IDI_26 Pin=XP2-34
+Added Pin To Net: NetName=IDI_28 Pin=XP2-35
+Added Pin To Net: NetName=IDI_30 Pin=XP2-36
+Added Pin To Net: NetName=E.GND_3 Pin=XP2-37
+Added Pin To Net: NetName=NetL?_1 Pin=L?-1
+Added Pin To Net: NetName=NetL?_1 Pin=R33-1
+Added Pin To Net: NetName=NetL?_1 Pin=R34-1
+Added Net: Name=NetL?_1
+Added Member To Class: ClassName=TI_SCH Member=Component L? inductor
+Added Member To Class: ClassName=TI_SCH Member=Component L? inductor
+Added Member To Class: ClassName=TI_SCH Member=Component L? inductor
+Added Member To Class: ClassName=TI_SCH Member=Component XP2 DRB-37F

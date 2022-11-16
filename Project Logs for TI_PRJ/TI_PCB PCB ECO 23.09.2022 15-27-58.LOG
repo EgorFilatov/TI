@@ -1,0 +1,26 @@
+Added Component: Designator=XP?(DIN41612R (DS1118-32M-R23))
+Added Pin To Net: NetName=SPI_2_CS Pin=XP?-1
+Added Pin To Net: NetName=SPI_2_CS Pin=XP?-2
+Added Pin To Net: NetName=SPI_2_MOSI Pin=XP?-3
+Added Pin To Net: NetName=SPI_2_MOSI Pin=XP?-4
+Added Pin To Net: NetName=SPI_2_MISO Pin=XP?-5
+Added Pin To Net: NetName=SPI_2_MISO Pin=XP?-6
+Added Pin To Net: NetName=SPI_2_SCK Pin=XP?-7
+Added Pin To Net: NetName=SPI_2_SCK Pin=XP?-8
+Added Pin To Net: NetName=GND_??? Pin=XP?-17
+Added Pin To Net: NetName=GND_??? Pin=XP?-18
+Added Pin To Net: NetName=GND_??? Pin=XP?-19
+Added Pin To Net: NetName=GND_??? Pin=XP?-20
+Added Pin To Net: NetName=VCC_5V Pin=XP?-21
+Added Pin To Net: NetName=VCC_5V Pin=XP?-22
+Added Pin To Net: NetName=VCC_5V Pin=XP?-23
+Added Pin To Net: NetName=VCC_5V Pin=XP?-24
+Added Pin To Net: NetName=GND_??? Pin=XP?-25
+Added Pin To Net: NetName=GND_??? Pin=XP?-26
+Added Pin To Net: NetName=GND_??? Pin=XP?-27
+Added Pin To Net: NetName=GND_??? Pin=XP?-28
+Added Pin To Net: NetName=VCC_12V Pin=XP?-29
+Added Pin To Net: NetName=VCC_12V Pin=XP?-30
+Added Pin To Net: NetName=VCC_12V Pin=XP?-31
+Added Pin To Net: NetName=VCC_12V Pin=XP?-32
+Added Member To Class: ClassName=TI_SCH Member=Component XP? DIN41612R (DS1118-32M-R23)

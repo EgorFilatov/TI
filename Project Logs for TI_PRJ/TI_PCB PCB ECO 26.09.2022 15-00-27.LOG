@@ -1,0 +1,25 @@
+Added Pin To Net: NetName=SPI_2_CS Pin=XP2-1
+Added Pin To Net: NetName=SPI_2_CS Pin=XP2-2
+Added Pin To Net: NetName=SPI_2_MOSI Pin=XP2-3
+Added Pin To Net: NetName=SPI_2_MOSI Pin=XP2-4
+Added Pin To Net: NetName=SPI_2_MISO Pin=XP2-5
+Added Pin To Net: NetName=SPI_2_MISO Pin=XP2-6
+Added Pin To Net: NetName=SPI_2_SCK Pin=XP2-7
+Added Pin To Net: NetName=SPI_2_SCK Pin=XP2-8
+Added Pin To Net: NetName=GND_??? Pin=XP2-17
+Added Pin To Net: NetName=GND_??? Pin=XP2-18
+Added Pin To Net: NetName=GND_??? Pin=XP2-19
+Added Pin To Net: NetName=GND_??? Pin=XP2-20
+Added Pin To Net: NetName=VCC_5V Pin=XP2-21
+Added Pin To Net: NetName=VCC_5V Pin=XP2-22
+Added Pin To Net: NetName=VCC_5V Pin=XP2-23
+Added Pin To Net: NetName=VCC_5V Pin=XP2-24
+Added Pin To Net: NetName=GND_??? Pin=XP2-25
+Added Pin To Net: NetName=GND_??? Pin=XP2-26
+Added Pin To Net: NetName=GND_??? Pin=XP2-27
+Added Pin To Net: NetName=GND_??? Pin=XP2-28
+Added Pin To Net: NetName=VCC_12V Pin=XP2-29
+Added Pin To Net: NetName=VCC_12V Pin=XP2-30
+Added Pin To Net: NetName=VCC_12V Pin=XP2-31
+Added Pin To Net: NetName=VCC_12V Pin=XP2-32
+Added Net: Name=VCC_12V

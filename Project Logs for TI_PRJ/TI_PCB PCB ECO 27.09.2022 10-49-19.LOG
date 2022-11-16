@@ -1,0 +1,11 @@
+Change Component Designator: OldDesignator=L? NewDesignator=L1
+Change Component Designator: OldDesignator=L? NewDesignator=L2
+Change Component Designator: OldDesignator=L? NewDesignator=L3
+Change Net Name : Old Net Name=NetL?_0 New Net Name=NetL2_0
+Change Net Name : Old Net Name=NetL?_1 New Net Name=NetL3_1
+Added Pin To Net: NetName=NetL1_0 Pin=L1-0
+Added Pin To Net: NetName=NetL1_0 Pin=R27-1
+Added Pin To Net: NetName=NetL1_0 Pin=R28-1
+Added Net: Name=NetL1_0
+Added Member To Class: ClassName=TI_SCH Member=Component L2 inductor
+Added Member To Class: ClassName=TI_SCH Member=Component L3 inductor

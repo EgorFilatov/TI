@@ -1,0 +1,19 @@
+Added Component: Designator=L1(inductor)
+Added Component: Designator=L2(inductor)
+Added Component: Designator=L3(inductor)
+Added Pin To Net: NetName=IA Pin=L1-0
+Added Pin To Net: NetName=2 Pin=L1-1
+Added Pin To Net: NetName=NetL1_2 Pin=L1-2
+Added Pin To Net: NetName=AMP_IN+ Pin=L1-3
+Added Pin To Net: NetName=IB Pin=L2-0
+Added Pin To Net: NetName=4 Pin=L2-1
+Added Pin To Net: NetName=NetL2_2 Pin=L2-2
+Added Pin To Net: NetName=AMP_IN+ Pin=L2-3
+Added Pin To Net: NetName=IC Pin=L3-0
+Added Pin To Net: NetName=6 Pin=L3-1
+Added Pin To Net: NetName=NetL3_2 Pin=L3-2
+Added Pin To Net: NetName=AMP_IN+ Pin=L3-3
+Added Member To Class: ClassName=TI_SCH Member=Component L1 inductor
+Added Member To Class: ClassName=TI_SCH Member=Component L2 inductor
+Added Member To Class: ClassName=TI_SCH Member=Component L3 inductor
+Added Room: Name=TI_SCH

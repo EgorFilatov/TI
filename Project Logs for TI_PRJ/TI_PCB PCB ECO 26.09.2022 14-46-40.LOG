@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=IA Pin=XP?-1
+Removed Pin From Net: NetName=2 Pin=XP?-2
+Removed Pin From Net: NetName=IB Pin=XP?-3
+Removed Pin From Net: NetName=4 Pin=XP?-4
+Removed Pin From Net: NetName=IC Pin=XP?-5
+Removed Member From Class: ClassName=TI_SCH Member=XP?
+Added Component: Designator=XP1(MSTB 2.5 5-GF-5.08)
+Added Component: Designator=XP4(MSTB 2.5 5-GF-5.08)
+Added Pin To Net: NetName=IA Pin=XP1-1
+Added Pin To Net: NetName=2 Pin=XP1-2
+Added Pin To Net: NetName=IB Pin=XP1-3
+Added Pin To Net: NetName=4 Pin=XP1-4
+Added Pin To Net: NetName=IC Pin=XP1-5
+Added Pin To Net: NetName=6 Pin=XP4-1
+Added Pin To Net: NetName=UA Pin=XP4-2
+Added Pin To Net: NetName=UB Pin=XP4-3
+Added Pin To Net: NetName=UC Pin=XP4-4
+Added Pin To Net: NetName=N Pin=XP4-5
+Added Member To Class: ClassName=TI_SCH Member=Component XP1 MSTB 2.5 5-GF-5.08
+Added Member To Class: ClassName=TI_SCH Member=Component XP4 MSTB 2.5 5-GF-5.08
+Added Room: Name=TI_SCH

@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=AMP_IN+ Pin=L3-0
+Removed Member From Class: ClassName=TI_SCH Member=L3
+Added Component: Designator=L?(inductor)
+Added Pin To Net: NetName=AMP_IN+ Pin=L?-1
+Added Pin To Net: NetName=NetL?_0 Pin=L?-0
+Added Pin To Net: NetName=NetL?_0 Pin=R33-1
+Added Pin To Net: NetName=NetL?_0 Pin=R34-1
+Added Net: Name=NetL?_0
+Added Member To Class: ClassName=TI_SCH Member=Component L1 inductor
+Added Member To Class: ClassName=TI_SCH Member=Component L? inductor

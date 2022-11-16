@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=GND_??? Pin=C13-1
+Removed Pin From Net: NetName=VCC_3.3V_CLEAR Pin=C13-2
+Removed Pin From Net: NetName=GND_??? Pin=C14-1
+Removed Pin From Net: NetName=VCC_3.3V_CLEAR Pin=C14-2
+Removed Pin From Net: NetName=GND_??? Pin=C15-1
+Removed Pin From Net: NetName=VCC_3.3V_CLEAR Pin=C15-2
+Removed Pin From Net: NetName=GND_??? Pin=C16-1
+Removed Pin From Net: NetName=VCC_3.3V_CLEAR Pin=C16-2
+Removed Member From Class: ClassName=TI_SCH Member=C13
+Removed Member From Class: ClassName=TI_SCH Member=C14
+Removed Member From Class: ClassName=TI_SCH Member=C15
+Removed Member From Class: ClassName=TI_SCH Member=C16
+Added Component: Designator=C?(CAP: 0603)
+Added Component: Designator=C?(CAP: 0603)
+Added Component: Designator=C?(CAP: 0603)
+Added Component: Designator=C?(CAP: 0603)
+Added Pin To Net: NetName=GND_??? Pin=C?-1
+Added Pin To Net: NetName=GND_??? Pin=C?-1
+Added Pin To Net: NetName=GND_??? Pin=C?-1
+Added Pin To Net: NetName=GND_??? Pin=C?-1
+Added Pin To Net: NetName=VCC_3.3V_CLEAR Pin=C?-2
+Added Pin To Net: NetName=VCC_3.3V_CLEAR Pin=C?-2
+Added Pin To Net: NetName=VCC_3.3V_CLEAR Pin=C?-2
+Added Pin To Net: NetName=VCC_3.3V_CLEAR Pin=C?-2
+Added Member To Class: ClassName=TI_SCH Member=Component C? ValueManufacturerPartNumber
+Added Member To Class: ClassName=TI_SCH Member=Component C? ValueManufacturerPartNumber
+Added Member To Class: ClassName=TI_SCH Member=Component C? ValueManufacturerPartNumber
+Added Member To Class: ClassName=TI_SCH Member=Component C? ValueManufacturerPartNumber

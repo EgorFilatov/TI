@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=VCC_3.3V_CLEAR Pin=C19-2
+Removed Pin From Net: NetName=VCC_3.3V_CLEAR Pin=C20-2
+Removed Pin From Net: NetName=VCC_3.3V_CLEAR Pin=L8-1
+Added Pin To Net: NetName=VCCA_3.3V_CLEAR Pin=C19-2
+Added Pin To Net: NetName=VCCA_3.3V_CLEAR Pin=C20-2
+Added Pin To Net: NetName=VCCA_3.3V_CLEAR Pin=L8-1
+Added Member To Class: ClassName=TI_SCH Member=Component L8 ValueManufacturerPartNumber

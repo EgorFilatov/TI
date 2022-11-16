@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=AMP_IN_B- Pin=R18-2
+Removed Pin From Net: NetName=AMP_IN_B- Pin=VD3-1
+Removed Pin From Net: NetName=AMP_IN_B- Pin=VD3-2
+Added Pin To Net: NetName=AMP_IN_C- Pin=R18-2
+Added Pin To Net: NetName=AMP_IN_C- Pin=VD3-1
+Added Pin To Net: NetName=AMP_IN_C- Pin=VD3-2

@@ -1,0 +1,43 @@
+Removed Pin From Net: NetName=SPI_2_CS Pin=XP1-1
+Removed Pin From Net: NetName=SPI_2_CS Pin=XP1-2
+Removed Pin From Net: NetName=SPI_2_MOSI Pin=XP1-3
+Removed Pin From Net: NetName=SPI_2_MOSI Pin=XP1-4
+Removed Pin From Net: NetName=SPI_2_MISO Pin=XP1-5
+Removed Pin From Net: NetName=SPI_2_MISO Pin=XP1-6
+Removed Pin From Net: NetName=SPI_2_SCK Pin=XP1-7
+Removed Pin From Net: NetName=SPI_2_SCK Pin=XP1-8
+Removed Pin From Net: NetName=GND_??? Pin=XP1-17
+Removed Pin From Net: NetName=GND_??? Pin=XP1-18
+Removed Pin From Net: NetName=GND_??? Pin=XP1-19
+Removed Pin From Net: NetName=GND_??? Pin=XP1-20
+Removed Pin From Net: NetName=VCC_5V Pin=XP1-21
+Removed Pin From Net: NetName=VCC_5V Pin=XP1-22
+Removed Pin From Net: NetName=VCC_5V Pin=XP1-23
+Removed Pin From Net: NetName=VCC_5V Pin=XP1-24
+Removed Pin From Net: NetName=GND_??? Pin=XP1-25
+Removed Pin From Net: NetName=GND_??? Pin=XP1-26
+Removed Pin From Net: NetName=GND_??? Pin=XP1-27
+Removed Pin From Net: NetName=GND_??? Pin=XP1-28
+Removed Member From Class: ClassName=TI_SCH Member=XP1
+Added Component: Designator=XP?(MSTB 2.5 5-GF-5.08)
+Added Component: Designator=XP?(MSTB 2.5 5-GF-5.08)
+Added Pin To Net: NetName=UA Pin=XP?-2
+Added Pin To Net: NetName=UB Pin=XP?-3
+Added Pin To Net: NetName=UC Pin=XP?-4
+Added Pin To Net: NetName=2 Pin=XP?-2
+Added Net: Name=2
+Added Pin To Net: NetName=4 Pin=XP?-4
+Added Net: Name=4
+Added Pin To Net: NetName=6 Pin=XP?-1
+Added Net: Name=6
+Added Pin To Net: NetName=IA Pin=XP?-1
+Added Net: Name=IA
+Added Pin To Net: NetName=IB Pin=XP?-3
+Added Net: Name=IB
+Added Pin To Net: NetName=IC Pin=XP?-5
+Added Net: Name=IC
+Added Pin To Net: NetName=N Pin=XP?-5
+Added Net: Name=N
+Added Member To Class: ClassName=TI_SCH Member=Component R33 ValueManufacturerPartNumber
+Added Member To Class: ClassName=TI_SCH Member=Component XP? MSTB 2,5 5-GF-5,08
+Added Member To Class: ClassName=TI_SCH Member=Component XP? MSTB 2,5 5-GF-5,08

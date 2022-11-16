@@ -1,0 +1,29 @@
+Added Component: Designator=U?(STM32F030R8T6)
+Added Pin To Net: NetName=VCC_3.3V_CLEAR Pin=U?-1
+Added Pin To Net: NetName=GND_??? Pin=U?-5
+Added Pin To Net: NetName=GND_??? Pin=U?-6
+Added Pin To Net: NetName=RESET Pin=U?-7
+Added Pin To Net: NetName=GND_??? Pin=U?-12
+Added Pin To Net: NetName=VCCA_3.3V_CLEAR Pin=U?-13
+Added Pin To Net: NetName=ADC_IN4 Pin=U?-20
+Added Pin To Net: NetName=ADC_IN5 Pin=U?-21
+Added Pin To Net: NetName=ADC_IN6 Pin=U?-22
+Added Pin To Net: NetName=ADC_IN7 Pin=U?-23
+Added Pin To Net: NetName=ADC_IN14 Pin=U?-24
+Added Pin To Net: NetName=ADC_IN15 Pin=U?-25
+Added Pin To Net: NetName=S1 Pin=U?-29
+Added Pin To Net: NetName=GND_??? Pin=U?-31
+Added Pin To Net: NetName=VCC_3.3V_CLEAR Pin=U?-32
+Added Pin To Net: NetName=SPI_2_CS Pin=U?-33
+Added Pin To Net: NetName=SPI_2_SCK Pin=U?-34
+Added Pin To Net: NetName=SPI_2_MISO Pin=U?-35
+Added Pin To Net: NetName=SPI_2_MOSI Pin=U?-36
+Added Pin To Net: NetName=SWDIO Pin=U?-46
+Added Pin To Net: NetName=SWCLK Pin=U?-49
+Added Pin To Net: NetName=SWO Pin=U?-55
+Added Pin To Net: NetName=NetR42_2 Pin=U?-60
+Added Pin To Net: NetName=GND_??? Pin=U?-63
+Added Pin To Net: NetName=VCC_3.3V_CLEAR Pin=U?-64
+Added Member To Class: ClassName=TI_SCH Member=Component R50 ValueManufacturerPartNumber
+Added Member To Class: ClassName=TI_SCH Member=Component U? STM32F030R8T6
+Added Room: Name=TI_SCH

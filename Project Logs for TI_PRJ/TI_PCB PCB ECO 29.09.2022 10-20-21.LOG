@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=VCC_3.3V_CLEAR Pin=VD4-2
+Removed Pin From Net: NetName=VCC_3.3V_CLEAR Pin=VD5-2
+Removed Pin From Net: NetName=VCC_3.3V_CLEAR Pin=VD6-2
+Added Pin To Net: NetName=VCC_3.3V Pin=VD4-2
+Added Pin To Net: NetName=VCC_3.3V Pin=VD5-2
+Added Pin To Net: NetName=VCC_3.3V Pin=VD6-2

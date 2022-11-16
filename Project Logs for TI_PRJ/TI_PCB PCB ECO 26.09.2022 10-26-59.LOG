@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=ADC_IN5 Pin=R24-1
+Removed Pin From Net: NetName=NetR21_1 Pin=R24-2
+Removed Pin From Net: NetName=ADC_IN14 Pin=R39-1
+Removed Pin From Net: NetName=NetR37_1 Pin=R39-2
+Removed Member From Class: ClassName=TI_SCH Member=R24
+Removed Member From Class: ClassName=TI_SCH Member=R39
+Change Component Description : Designator=BC1 Old Description=24MHz A±10ppm Crystal 10pF 100 Ohms 4-SMD, No Lead New Description=24MHz A±10ppm Crystal 10pF 100 Ohms 4-SMD, No Lead

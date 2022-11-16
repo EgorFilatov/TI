@@ -1,0 +1,12 @@
+Change Component Description : Designator=BC1 Old Description=24MHz A±10ppm Crystal 10pF 100 Ohms 4-SMD, No Lead New Description=24MHz A±10ppm Crystal 10pF 100 Ohms 4-SMD, No Lead
+Added Pin To Net: NetName=GND_??? Pin=C1-2
+Added Pin To Net: NetName=GND_??? Pin=C2-2
+Added Pin To Net: NetName=GND_??? Pin=C3-2
+Added Pin To Net: NetName=GND_??? Pin=C4-2
+Added Pin To Net: NetName=GND_??? Pin=C5-2
+Added Pin To Net: NetName=GND_??? Pin=C6-2
+Added Pin To Net: NetName=GND_??? Pin=U1-11
+Added Pin To Net: NetName=GND_??? Pin=U2-11
+Added Pin To Net: NetName=GND_??? Pin=VD4-1
+Added Pin To Net: NetName=GND_??? Pin=VD5-1
+Added Pin To Net: NetName=GND_??? Pin=VD6-1

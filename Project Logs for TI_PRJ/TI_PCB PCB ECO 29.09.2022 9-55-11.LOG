@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C13
+Change Component Designator: OldDesignator=C? NewDesignator=C14
+Change Component Designator: OldDesignator=C? NewDesignator=C15
+Change Component Designator: OldDesignator=C? NewDesignator=C16
+Added Member To Class: ClassName=TI_SCH Member=Component C13 ValueManufacturerPartNumber
+Added Member To Class: ClassName=TI_SCH Member=Component C14 ValueManufacturerPartNumber
+Added Member To Class: ClassName=TI_SCH Member=Component C15 ValueManufacturerPartNumber
