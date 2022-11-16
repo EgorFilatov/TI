@@ -1,1 +1,3 @@
-Record=TopLevelDocument|FileName=TI_SCH.SchDoc|SheetNumber= 
+Record=TopLevelDocument|FileName=TI_MCU.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=TI_MCU.SchDoc|FileName=TI_POW.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=TI_MCU.SchDoc|FileName=TI_SCH.SchDoc|SheetNumber= 
