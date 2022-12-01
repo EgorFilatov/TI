@@ -1,0 +1,97 @@
+Removed Pin From Net: NetName=GND Pin=C?-1
+Removed Pin From Net: NetName=NetC?_2 Pin=C?-2
+Add Component: Footprint Not Found CAP: 0603
+Add Component: Footprint Not Found CAP: 0603
+Add Component: Footprint Not Found CAP: 0603
+Add Component: Footprint Not Found CAP: 0603
+Add Component: Footprint Not Found CAP: 0603
+Add Component: Footprint Not Found CAP: 0603
+Add Component: Footprint Not Found CAP: 0603
+Add Component: Footprint Not Found CAP: 0603
+Add Component: Footprint Not Found RES: 0603
+Add Component: Footprint Not Found RES: 0603
+Add Component: Footprint Not Found RES: 0603
+Add Component: Footprint Not Found RES: 0603
+Add Component: Footprint Not Found RES: 0603
+Add Component: Footprint Not Found RES: 0603
+Add Component: Footprint Not Found RES: 0603
+Add Component: Footprint Not Found RES: 0603
+Add Component: Footprint Not Found RES: 0603
+Add Component: Footprint Not Found RES: 0603
+Add Component: Footprint Not Found RES: 0603
+Add Component: Footprint Not Found RES: 0603
+Add Component: Footprint Not Found RES: 0603
+Add Component: Footprint Not Found RES: 0603
+Add Component: Footprint Not Found RES: 0603
+Add Component: Footprint Not Found RES: 0603
+Add Component: Footprint Not Found RES: 0603
+Add Component: Footprint Not Found RES: 0603
+Add Component: Footprint Not Found RES: 0603
+Add Component: Footprint Not Found OSC: 2520
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=OSC_IN Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=RESET Pin=C?-2
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Added Pin To Net: NetName=NetR?_1 Pin=U?-2
+Added Pin To Net: NetName=NetR?_1 Pin=VD?-1
+Added Pin To Net: NetName=NetR?_1 Pin=VD?-2
+Add Pin To Net: Unknown Pin: Pin Z?-1
+Add Pin To Net: Unknown Pin: Pin Z?-2
+Add Pin To Net: Unknown Pin: Pin Z?-3
+Add Pin To Net: Unknown Pin: Pin Z?-4
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "SPI2_MISO" already exists
+Add Net: Net with name "SPI2_MOSI" already exists
+Added Member To Class: ClassName=U_TI_ADC_VOLTAGE Member=Component C? Cap_0603
+Added Member To Class: ClassName=U_TI_MCU Member=Component C? Cap_0603
+Added Member To Class: ClassName=U_TI_POW Member=Component C? Cap_0603
+Added Member To Class: ClassName=U_TI_POW Member=Component C? Cap_0603
+Added Member To Class: ClassName=U_TI_POW Member=Component C? Cap_0603
+Added Member To Class: ClassName=U_TI_POW Member=Component C? Cap_0603
+Added Member To Class: ClassName=U_TI_POW Member=Component C? Cap_0603
+Added Member To Class: ClassName=U_TI_POW Member=Component C? Cap_2220
+Add Class Member: Failed to add class member : Component R? Resistor_0603
+Add Class Member: Failed to add class member : Component R? Resistor_0603
+Add Class Member: Failed to add class member : Component R? Resistor_0603
+Add Class Member: Failed to add class member : Component R? Resistor_0603
+Add Class Member: Failed to add class member : Component R? Resistor_0603
+Add Class Member: Failed to add class member : Component R? Resistor_0603
+Add Class Member: Failed to add class member : Component R? Resistor_0603
+Add Class Member: Failed to add class member : Component R? Resistor_0603
+Add Class Member: Failed to add class member : Component R? Resistor_0603
+Add Class Member: Failed to add class member : Component R? Resistor_0603
+Add Class Member: Failed to add class member : Component R? Resistor_0603
+Add Class Member: Failed to add class member : Component R? Resistor_0603
+Add Class Member: Failed to add class member : Component R? Resistor_0603
+Add Class Member: Failed to add class member : Component R? Resistor_0603
+Add Class Member: Failed to add class member : Component R? Resistor_0603
+Add Class Member: Failed to add class member : Component R? Resistor_0603
+Add Class Member: Failed to add class member : Component R? Resistor_0603
+Add Class Member: Failed to add class member : Component R? Resistor_0603
+Add Class Member: Failed to add class member : Component R? Resistor_0603
+Added Member To Class: ClassName=U_TI_ADC_VOLTAGE Member=Component VD? BAV99
+Add Class Member: Failed to add class member : Component Z? ECS-320-10-36B2-CTN-TR
