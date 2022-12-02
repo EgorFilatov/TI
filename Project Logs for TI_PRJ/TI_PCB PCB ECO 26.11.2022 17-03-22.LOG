@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=GND Pin=R2-1
+Removed Pin From Net: NetName=SWCLK Pin=R2-2
+Removed Pin From Net: NetName=SWDIO Pin=R3-1
+Removed Pin From Net: NetName=+3V3 Pin=R3-2
+Removed Pin From Net: NetName=GND Pin=XP2-1
+Removed Pin From Net: NetName=SWCLK Pin=XP2-2
+Removed Pin From Net: NetName=SWDIO Pin=XP2-3
+Removed Pin From Net: NetName=+3V3 Pin=XP2-4
+Add Component: Footprint Not Found OSC: 2520
+Added Pin To Net: NetName=+3V3 Pin=R2-1
+Added Pin To Net: NetName=SWDIO Pin=R2-2
+Added Pin To Net: NetName=SWCLK Pin=R3-1
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Pin To Net: NetName=+3V3 Pin=XP2-1
+Added Pin To Net: NetName=SWDIO Pin=XP2-2
+Added Pin To Net: NetName=SWCLK Pin=XP2-3
+Added Pin To Net: NetName=GND Pin=XP2-4
+Add Pin To Net: Unknown Pin: Pin Z1-1
+Add Pin To Net: Unknown Pin: Pin Z1-2
+Add Pin To Net: Unknown Pin: Pin Z1-3
+Add Pin To Net: Unknown Pin: Pin Z1-4
+Add Class Member: Failed to add class member : Component Z1 ECS-320-10-36B2-CTN-TR

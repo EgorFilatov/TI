@@ -1,0 +1,15 @@
+Added Component: Designator=LSD1(WH2004A)
+Add component (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://www.winstar.com.tw/uploads/files/e97d4fb1a675762f600be546831f7c7f.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.winstar.com.tw/ru/products/character-lcd-display-module/wh2004a.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Winstar"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "LCD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found OSC: 2520
+Add Pin To Net: Unknown Pin: Pin Z1-1
+Add Pin To Net: Unknown Pin: Pin Z1-2
+Add Pin To Net: Unknown Pin: Pin Z1-3
+Add Pin To Net: Unknown Pin: Pin Z1-4
+Added Member To Class: ClassName=U_TI_ADC_VOLTAGE Member=Component LSD1 WH2004A
+Add Class Member: Failed to add class member : Component Z1 ECS-320-10-36B2-CTN-TR

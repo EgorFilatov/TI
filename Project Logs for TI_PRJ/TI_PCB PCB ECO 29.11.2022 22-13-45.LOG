@@ -1,0 +1,14 @@
+Added Component: Designator=Z1(OSC: 2520)
+Add component (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://eu.mouser.com/datasheet/2/122/ECX_2236B2-2400583.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://eu.mouser.com/ProductDetail/ECS/ECS-320-10-36B2-CTN-TR?qs=QNEnbhJQKvbusIFiAH6chw%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ECS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = "2520"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Crystals"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-40...+85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "32MHz"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=OSC_IN Pin=Z1-1
+Added Pin To Net: NetName=GND Pin=Z1-2
+Added Pin To Net: NetName=NetC9_2 Pin=Z1-3
+Added Pin To Net: NetName=GND Pin=Z1-4
+Added Member To Class: ClassName=U_TI_MCU Member=Component Z1 ECS-320-10-36B2-CTN-TR

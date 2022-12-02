@@ -1,0 +1,36 @@
+Added Component: Designator=T1(AC-1005)
+Add component (AddParameter): Name = "Analogue"; Value = "CST-1005(https://eu.mouser.com/datasheet/2/410/CST_1005-1892657.pdf)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://static.chipdip.ru/lib/884/DOC003884697.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.ru/product/ac-1005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Talema"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Current Transformers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=T2(AC-1005)
+Add component (AddParameter): Name = "Analogue"; Value = "CST-1005(https://eu.mouser.com/datasheet/2/410/CST_1005-1892657.pdf)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://static.chipdip.ru/lib/884/DOC003884697.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.ru/product/ac-1005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Talema"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Current Transformers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=T3(AC-1005)
+Add component (AddParameter): Name = "Analogue"; Value = "CST-1005(https://eu.mouser.com/datasheet/2/410/CST_1005-1892657.pdf)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://static.chipdip.ru/lib/884/DOC003884697.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.ru/product/ac-1005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Talema"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Current Transformers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found OSC: 2520
+Add Pin To Net: Unknown Pin: Pin Z1-1
+Add Pin To Net: Unknown Pin: Pin Z1-2
+Add Pin To Net: Unknown Pin: Pin Z1-3
+Add Pin To Net: Unknown Pin: Pin Z1-4
+Added Member To Class: ClassName=U_TI_ADC_VOLTAGE Member=Component T1 AC-1005
+Added Member To Class: ClassName=U_TI_ADC_VOLTAGE Member=Component T2 AC-1005
+Added Member To Class: ClassName=U_TI_ADC_VOLTAGE Member=Component T3 AC-1005
+Add Class Member: Failed to add class member : Component Z1 ECS-320-10-36B2-CTN-TR
+Added Room: Name=U_TI_ADC_VOLTAGE
+Added Room: Name=U_TI_MCU
+Added Room: Name=U_TI_POW

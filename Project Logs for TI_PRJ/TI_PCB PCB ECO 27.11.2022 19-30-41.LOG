@@ -1,0 +1,14 @@
+Add Component: Footprint Not Found OSC: 2520
+Add Pin To Net: Unknown Pin: Pin Z1-1
+Add Pin To Net: Unknown Pin: Pin Z1-2
+Add Pin To Net: Unknown Pin: Pin Z1-3
+Add Pin To Net: Unknown Pin: Pin Z1-4
+Added Pin To Net: NetName=ADC_IN6 Pin=U2-22
+Added Net: Name=ADC_IN6
+Added Pin To Net: NetName=ADC_IN7 Pin=U2-23
+Added Net: Name=ADC_IN7
+Added Pin To Net: NetName=ADC_IN14 Pin=U2-24
+Added Net: Name=ADC_IN14
+Added Pin To Net: NetName=ADC_IN15 Pin=U2-25
+Added Net: Name=ADC_IN15
+Add Class Member: Failed to add class member : Component Z1 ECS-320-10-36B2-CTN-TR
