@@ -1,0 +1,26 @@
+Added Component: Designator=XP?(MSTB 2,5/12-GF-5,08)
+Add component (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://www.phoenixcontact.com/ru-pc/produkty/korpusnaa-cast-dla-pecatnyh-plat-mstb-25-12-gf-508-1776605"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.phoenixcontact.com/ru-pc/produkty/korpusnaa-cast-dla-pecatnyh-plat-mstb-25-12-gf-508-1776605"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Phoenix contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=N Pin=U3-3
+Added Pin To Net: NetName=N Pin=U3-5
+Added Pin To Net: NetName=N Pin=U3-10
+Added Pin To Net: NetName=N Pin=VD1-3
+Added Pin To Net: NetName=N Pin=VD2-3
+Added Pin To Net: NetName=N Pin=VD3-3
+Added Pin To Net: NetName=N Pin=XP?-1
+Change Net Name : Old Net Name=N New Net Name=VOLTAGE_IN_A+
+Added Pin To Net: NetName=U_A Pin=R4-1
+Added Pin To Net: NetName=U_A Pin=XP?-3
+Added Net: Name=U_A
+Added Pin To Net: NetName=U_B Pin=R11-1
+Added Pin To Net: NetName=U_B Pin=XP?-4
+Added Net: Name=U_B
+Added Pin To Net: NetName=U_C Pin=R19-1
+Added Pin To Net: NetName=U_C Pin=XP?-5
+Added Net: Name=U_C
+Added Member To Class: ClassName=U_TI_ADC_VOLTAGE Member=Component XP? PLS-6 (DS1MSTB 2,5/12-GF-5,08021-1x6)

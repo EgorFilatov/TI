@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=+5V_ISOLATED Pin=R28-2
+Added Pin To Net: NetName=+5V_ISOLATED Pin=R31-2
+Change Net Name : Old Net Name=+5V_ISOLATED New Net Name=+5V

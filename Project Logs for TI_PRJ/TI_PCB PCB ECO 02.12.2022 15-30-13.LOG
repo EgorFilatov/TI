@@ -1,0 +1,16 @@
+Added Component: Designator=XP3(MSTB 2,5/12-GF-5,08)
+Add component (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://www.phoenixcontact.com/ru-pc/produkty/korpusnaa-cast-dla-pecatnyh-plat-mstb-25-12-gf-508-1776605"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.phoenixcontact.com/ru-pc/produkty/korpusnaa-cast-dla-pecatnyh-plat-mstb-25-12-gf-508-1776605"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Phoenix contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VOLTAGE_IN_A+ Pin=XP3-1
+Added Pin To Net: NetName=U_A Pin=XP3-3
+Added Pin To Net: NetName=U_B Pin=XP3-4
+Added Pin To Net: NetName=U_C Pin=XP3-5
+Added Member To Class: ClassName=U_TI_ADC_VOLTAGE Member=Component XP3 PLS-6 (DS1MSTB 2,5/12-GF-5,08021-1x6)
+Added Room: Name=U_TI_ADC_VOLTAGE
+Added Room: Name=U_TI_MCU
+Added Room: Name=U_TI_POW
