@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=CURRENT_IN_A+ Pin=R23-2
+Removed Pin From Net: NetName=CURRENT_IN_A- Pin=R25-2
+Removed Pin From Net: NetName=CURRENT_IN_A- Pin=R40-1
+Removed Pin From Net: NetName=NetR35_1 Pin=R40-2
+Removed Pin From Net: NetName=CURRENT_IN_D+ Pin=R41-2
+Removed Pin From Net: NetName=CURRENT_IN_D- Pin=R43-2
+Removed Pin From Net: NetName=CURRENT_IN_C+ Pin=R46-2
+Removed Pin From Net: NetName=CURRENT_IN_C- Pin=R48-2
+Removed Pin From Net: NetName=NetR35_1 Pin=U7-1
+Removed Pin From Net: NetName=CURRENT_IN_A+ Pin=VD4-3
+Removed Pin From Net: NetName=CURRENT_IN_D+ Pin=VD5-3
+Removed Pin From Net: NetName=CURRENT_IN_C+ Pin=VD6-3
+Added Pin To Net: NetName=CURRENT_IN_B+ Pin=R23-2
+Added Pin To Net: NetName=NetR35_1 Pin=R40-1
+Added Pin To Net: NetName=CURRENT_IN_C+ Pin=R41-2
+Added Pin To Net: NetName=CURRENT_IN_C- Pin=R43-2
+Added Pin To Net: NetName=CURRENT_IN_D+ Pin=R46-2
+Added Pin To Net: NetName=CURRENT_IN_D- Pin=R48-2
+Added Pin To Net: NetName=NetR35_1 Pin=U7-7
+Added Pin To Net: NetName=CURRENT_IN_B+ Pin=VD4-3
+Added Pin To Net: NetName=CURRENT_IN_C+ Pin=VD5-3
+Added Pin To Net: NetName=CURRENT_IN_D+ Pin=VD6-3
+Added Pin To Net: NetName=CURRENT_IN_B- Pin=R25-2
+Added Pin To Net: NetName=CURRENT_IN_B- Pin=R40-2
+Added Pin To Net: NetName=CURRENT_IN_B- Pin=U7-6
+Added Net: Name=CURRENT_IN_B-

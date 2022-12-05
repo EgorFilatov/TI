@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=NetR36_1 Pin=R43-1
+Removed Pin From Net: NetName=NetR37_1 Pin=R44-1
+Removed Pin From Net: NetName=CURRENT_IN_C- Pin=R44-2
+Removed Pin From Net: NetName=VOLTAGE_IN_A+ Pin=R45-1
+Removed Pin From Net: NetName=CURRENT_IN_B- Pin=R45-2
+Added Pin To Net: NetName=VOLTAGE_IN_A+ Pin=R43-1
+Added Pin To Net: NetName=NetR36_1 Pin=R44-1
+Added Pin To Net: NetName=CURRENT_IN_B- Pin=R44-2
+Added Pin To Net: NetName=NetR37_1 Pin=R45-1
+Added Pin To Net: NetName=CURRENT_IN_C- Pin=R45-2
+Added Member To Class: ClassName=U_TI_ADC_CURRENT Member=Component R44 Resistor_0603

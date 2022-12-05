@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=+5V Pin=R28-2
+Removed Pin From Net: NetName=+5V Pin=R31-2
+Added Pin To Net: NetName=+5V_ANALOG Pin=R28-2
+Added Pin To Net: NetName=+5V_ANALOG Pin=R31-2

@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=VOLTAGE_IN_B- Pin=R17-2
+Removed Pin From Net: NetName=VOLTAGE_IN_A+ Pin=U3-5
+Removed Pin From Net: NetName=VOLTAGE_IN_B- Pin=U3-6
+Added Pin To Net: NetName=VOLTAGE_IN_B- Pin=R17-1
+Added Pin To Net: NetName=VOLTAGE_IN_A+ Pin=U3-12
+Added Pin To Net: NetName=VOLTAGE_IN_B- Pin=U3-13
+Change Net Name : Old Net Name=VOLTAGE_IN_B- New Net Name=VOLTAGE_IN_D-
+Added Pin To Net: NetName=NetR17_2 Pin=R17-2
+Added Pin To Net: NetName=NetR17_2 Pin=R33-1
+Added Pin To Net: NetName=NetR17_2 Pin=U3-14
+Added Net: Name=NetR17_2

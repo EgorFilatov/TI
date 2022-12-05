@@ -1,0 +1,51 @@
+Removed Pin From Net: NetName=NetR36_1 Pin=R43-1
+Removed Pin From Net: NetName=NetR37_1 Pin=R44-1
+Removed Pin From Net: NetName=CURRENT_IN_C- Pin=R44-2
+Removed Pin From Net: NetName=VOLTAGE_IN_A+ Pin=R45-1
+Removed Pin From Net: NetName=CURRENT_IN_B- Pin=R45-2
+Removed Member From Class: ClassName=U_TI_ADC_VOLTAGE Member=R23
+Removed Member From Class: ClassName=U_TI_ADC_VOLTAGE Member=R24
+Removed Member From Class: ClassName=U_TI_ADC_VOLTAGE Member=R25
+Removed Member From Class: ClassName=U_TI_ADC_VOLTAGE Member=R40
+Removed Member From Class: ClassName=U_TI_ADC_VOLTAGE Member=R41
+Removed Member From Class: ClassName=U_TI_ADC_VOLTAGE Member=R42
+Removed Member From Class: ClassName=U_TI_ADC_VOLTAGE Member=R43
+Removed Member From Class: ClassName=U_TI_ADC_VOLTAGE Member=R45
+Removed Member From Class: ClassName=U_TI_ADC_VOLTAGE Member=R46
+Removed Member From Class: ClassName=U_TI_ADC_VOLTAGE Member=R47
+Removed Member From Class: ClassName=U_TI_ADC_VOLTAGE Member=R48
+Removed Member From Class: ClassName=U_TI_ADC_VOLTAGE Member=T1
+Removed Member From Class: ClassName=U_TI_ADC_VOLTAGE Member=T2
+Removed Member From Class: ClassName=U_TI_ADC_VOLTAGE Member=T3
+Removed Member From Class: ClassName=U_TI_ADC_VOLTAGE Member=U7
+Removed Member From Class: ClassName=U_TI_ADC_VOLTAGE Member=VD4
+Removed Member From Class: ClassName=U_TI_ADC_VOLTAGE Member=VD5
+Removed Member From Class: ClassName=U_TI_ADC_VOLTAGE Member=VD6
+Change component parameters: Designator = "R43" ("R43"); Footprint = "RES: 0603"; UniqueID = "\GRMYQVKJ\PRFUFJDM" ("\GRMYQVKJ\PRFUFJDM")
+Change component parameters (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package/Case"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.1W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "7.87K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R45" ("R45"); Footprint = "RES: 0603"; UniqueID = "\GRMYQVKJ\NWVLWGBU" ("\GRMYQVKJ\NWVLWGBU")
+Change component parameters (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package/Case"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.1W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "60.4K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VOLTAGE_IN_A+ Pin=R43-1
+Added Pin To Net: NetName=NetR36_1 Pin=R44-1
+Added Pin To Net: NetName=CURRENT_IN_B- Pin=R44-2
+Added Pin To Net: NetName=NetR37_1 Pin=R45-1
+Added Pin To Net: NetName=CURRENT_IN_C- Pin=R45-2
+Added Class: Name=U_TI_ADC_CURRENT
